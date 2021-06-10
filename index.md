@@ -1,3 +1,10 @@
+
+---
+
+# The *Rise* and *Eventual Fall* of the "Free Internet"
+
+---
+
 <html>
     <head>
         <meta charset="utf-8">
@@ -8,10 +15,6 @@
         </nav>
     </head>
 </html>
-
----
-
-# The *Rise* and *Eventual Fall* of the "Free Internet"
 
 ---
 
