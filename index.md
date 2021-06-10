@@ -1,4 +1,4 @@
-[](head.md)
+(head.md)
 
 ---
 
@@ -6,4 +6,4 @@
 
 ---
 
-[](foot.md)
+(foot.md)
