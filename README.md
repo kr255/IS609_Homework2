@@ -1,4 +1,4 @@
-# Mock landing page.
+# Rise and Eventual Fall of the Free Internet
 
 The idea behind this website is to portray a very subjective view of the **Internet**.
 Using the outline created from the videos provided the website is divided into three parts.
@@ -10,9 +10,17 @@ Using the outline created from the videos provided the website is divided into t
     - How it became more than just a tool for wartime
     - The academic takeover 
     
+2. The golden age
+    - Rapid increase of Universities on the network
+    - Internet now a public domain
+    - Untamed West that was the early internet 
+    - Organizations trying to formatize the internet
+    - Monetization and Speculation
+    - Boom goes the Bubble?
 
-## Part 
-[Landing Page](index.md)
+3. The Setting Sun
+    
+## [Landing Page](index.md)
 
 
 
