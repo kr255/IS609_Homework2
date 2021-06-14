@@ -1,0 +1,3 @@
+Conclusion 2000s - Present
+
+The world is constantly changing along with technology and the internet. The internet allows society to access information at any point of time, and is controlled by no one. The world as we know it cannot fathom a world without Google or the internet because it’s a part of our daily lives. We can consider 2021 to now when the world was forced to shut down because of COVID 19 and we had to rely on the internet to do our jobs. Companies today use websites and social media to enhance their marketing strategies by the use of cookie data. As a consumer we have what is called an “ID tag” that saves all of the most recent information we’ve searched and companies analyze that to make targeted recommendations. 
